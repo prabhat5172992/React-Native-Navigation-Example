@@ -1,4 +1,4 @@
-# React-Navigation-Example
+# React-Native-Navigation-Example
 
 Navigation Refrence Links
 # 1) https://reactnavigation.org/docs/en/api-reference.html
