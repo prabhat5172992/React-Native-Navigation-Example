@@ -1,0 +1,10 @@
+{
+  "products": [
+    { "id": "1", "productname": "Asus Max M1", "quantity": "5" },
+    { "id": "2", "productname": "Macbook Pro", "quantity": "2" },
+    { "id": "3", "productname": "Xiomi Note 7", "quantity": "7" },
+    { "id": "4", "productname": "LG Smart Tv", "quantity": "1" },
+    { "id": "5", "productname": "LG Refrigerator", "quantity": "1" },
+    { "id": "6", "productname": "G-Shock Watch", "quantity": "2" }
+  ]
+}
